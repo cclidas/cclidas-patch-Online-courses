@@ -6,7 +6,7 @@
 // @author       Dylan
 // @match        https://courses.gdut.edu.cn/mod/fsresource/view.php?id=*
 // @grant        unsafeWindow
-// @downloadURL  https://github.com/cclidas/cclidas-patch-Online-courses
+// @downloadURL  https://github.com/cclidas/cclidas-patch-Online-courses/main/
 // @updateURL   https://github.com/cclidas/cclidas-patch-Online-courses
 // ==/UserScript==
 
